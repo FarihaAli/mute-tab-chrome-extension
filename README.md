@@ -18,4 +18,4 @@ You have music playing in one tab. You open another website that also plays musi
 
 ## Licence
 
-MIT © [FarihaAli](https://https://github.com/FarihaAli)
+MIT © [FarihaAli](https://github.com/FarihaAli)
